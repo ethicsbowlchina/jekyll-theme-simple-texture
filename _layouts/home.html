@@ -43,15 +43,8 @@
             <a class="btn-enter btn-light" title="{{ site.data.i18n[site.lang].enter_blog }}" href="{{ site.paths.blog | relative_url }}">{{ site.data.i18n[site.lang].enter_blog }}</a>
         </h1>
         <div class="social-links animated hidden">
-            <a class="btn-light ico-rss" href="{{ site.baseurl }}/feed.xml" rel="me" target="_blank" title="feed"></a>
-            {% if site.author.email %}
-                <a class="btn-light ico-gmail" href="mailto:{{ site.author.email }}" rel="me" target="_blank" title="email"></a>
-            {% endif %}
-            {% for link in site.author.social_links %}
-                {% if link.url %}
-                    <a class="btn-light ico-{{ link.name }}" href="{{ link.url }}" rel="me" target="_blank" title="{{ link.name }}"></a>
-                {% endif %}
-            {% endfor %}
+            <a class="btn-light ico-rss" href="https://www.youtube.com/channel/UC3VG_IyE0O_FI4F3BEnZAmg" rel="me" target="_blank" title="YouTube Channel"></a>
+            <a class="btn-light ico-gmail" href="https://ethicsbowlchina.com" rel="me" target="_blank" title="Ethics Bowl China Official Website"></a>
         </div>
     </div>
 
