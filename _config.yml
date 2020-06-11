@@ -27,10 +27,10 @@ title: The Ethics Bowler
 description: "Ethics Bowl China Online Learning Center"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name:
-  job_title:
-  location:
-  email:
+  name: Leo Huang
+  job_title: Director, Ethics Bowl China
+  location: Shanghai
+  email: info@ethicsbowlchina.com
   social_links:
     - name: homepage
       url: https://ethicsbowlchina.com
@@ -40,15 +40,7 @@ home:
   section1: <h1>Ethics Matters.</h1>
   section2: <h2>The Ethics Bowler</h2>
 blog:
-  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
-  cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
-  footer_content: A gem-based responsive simple texture styled <a href="http://jekyllrb.com/">Jekyll</a> theme.
-
-disqus:
-  shortname: # e.g. yizeng
-  public_key: # e.g. ULZ0b9TFefCUJHKQd4JCKv2v3u27YoG7YG8zXPewkWrT333Z0Se9YnxLzoV6VM8W
-google_tag_manager: # e.g. 'GTM-KCQJXZ8F'
-addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5 
+  footer_content: The Ethics Bowler - Ethics Bowl China Online Learning Center
 
 paths:
   home: /
