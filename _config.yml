@@ -32,24 +32,14 @@ author:
   location:
   email:
   social_links:
-    - name: facebook
-      url:
-    - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
-    - name: instagram
-      url:
-    - name: linkedin
-      url:
-    - name: stackoverflow
-      url:
-    - name: twitter
-      url: 
-    - name: vk
-      url:
+    - name: homepage
+      url: https://ethicsbowlchina.com
+    - name: youtube
+      url: https://www.youtube.com/channel/UC3VG_IyE0O_FI4F3BEnZAmg
 home:
-  section1: <h1>Simple Texture</h1>
-  section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section1: <h1>The Ethics Bowler</h1>
+  section2: <h2>Ethics Matters.</h2>
+  section3: <div class="social-links"><a class="ico-youtube btn" href="https://www.youtube.com/channel/UC3VG_IyE0O_FI4F3BEnZAmg" title="View on YouTube"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
