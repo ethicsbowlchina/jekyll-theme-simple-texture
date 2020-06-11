@@ -37,8 +37,8 @@ author:
     - name: youtube
       url: https://www.youtube.com/channel/UC3VG_IyE0O_FI4F3BEnZAmg
 home:
-  section1: <h1>The Ethics Bowler</h1>
-  section2: <h2>Ethics Matters.</h2>
+  section1: <h1>Ethics Matters.</h1>
+  section2: <h2>The Ethics Bowler</h2>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
